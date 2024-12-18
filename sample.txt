@@ -2,7 +2,8 @@ Hey there git is here!!
 
 second commit done
 
-
 master ne change kiya 
+
+This is change after clone the repo
 
 
